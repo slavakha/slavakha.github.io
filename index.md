@@ -8,5 +8,6 @@ Université de Strasbourg
 - Bureau : i602 (bâtiment IRMA)
 - Adresse : 7 rue René Descartes, 67084 Strasbourg, France
 
+---
 
 [My papers on arxiv](https://arxiv.org/search/math?searchtype=author&query=Kharlamov,+V)
