@@ -1,4 +1,4 @@
-<img align="right" width="100" height="100" src="https://picsum.photos/100/100">
+<img align="right" width="100" height="100" src="https://slavakha.github.io/school-45.jpg">
 Professeur Emérite <br>
 Institut de Recherche Mathématique Avancée ([IRMA](https://irma.math.unistra.fr/)) <br>
 Université de Strasbourg
