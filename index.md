@@ -1,6 +1,6 @@
 <div style="float: right; margin-left: 20px; margin-bottom: 10px; width: auto;">
     <img src="https://slavakha.github.io/school-45.jpg" width="100" height="100" style="display: block;"/>
-    <p style="margin: 0; text-align: right; font-size: 12px;">Me at the 45th school (on the right)</p>
+    <p style="margin: 0; text-align: right; font-size: 12px;">Me at the <br> 45th school <br> (on the right)</p>
 </div>
 
 Professeur Emérite <br>
