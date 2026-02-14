@@ -11,4 +11,4 @@ Université de Strasbourg
 
 ---
 
-[My papers on arxiv](https://arxiv.org/search/math?searchtype=author&query=Kharlamov,+V)
+[My papers on arxiv](https://arxiv.org/search/math?searchtype=author&query=Kharlamov,+V), and [on MathSciNet](https://mathscinet.ams.org/mathscinet/author?authorId=202474)
