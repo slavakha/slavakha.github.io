@@ -1,5 +1,5 @@
-<img align="right" width="100" height="100" src="https://slavakha.github.io/school-45.jpg"/>
-<p align="right">Me at the 45th school (on the right)</p>
+<img align="right" width="100" height="100" src="https://slavakha.github.io/school-45.jpg" alt="Mathematician at 45th school"/><span style="display:block; margin-top:-20px; text-align:right;">Me at the 45th school (on the right)</span>
+
 Professeur Emérite <br>
 Institut de Recherche Mathématique Avancée ([IRMA](https://irma.math.unistra.fr/)) <br>
 Université de Strasbourg
