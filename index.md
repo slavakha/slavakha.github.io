@@ -5,7 +5,7 @@ Université de Strasbourg
 
 ### Coordonnées
 
-- Email : nom(at)math.unistra.fr
+- Email : kharlam(at)math.unistra.fr
 - Bureau : i602 (bâtiment IRMA)
 - Adresse : 7 rue René Descartes, 67084 Strasbourg, France
 
