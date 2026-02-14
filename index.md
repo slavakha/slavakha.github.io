@@ -3,9 +3,9 @@
     <p style="margin: 0; text-align: right; font-size: 12px;">Me at the 45th school (on the right)</p>
 </div>
 
-Professeur Emérite
-[Institut de Recherche Mathématique Avancée (IRMA)](https://irma.math.unistra.fr/)
-Université de Strasbourg
+Professeur Emérite <br>
+[Institut de Recherche Mathématique Avancée (IRMA)](https://irma.math.unistra.fr/) <br>
+Université de Strasbourg <br>
 
 ### Coordonnées
 
